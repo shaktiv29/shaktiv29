@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Linux, Data Structures, Algorithms, Creative Ideas, Networking, Cyber Security.
 - 📫 How to reach me: shaktiv@jecjabalpur.ac.in
 - 😄 Pronouns: He
-- ⚡ Fun fact: I want to learn more.
+- ⚡ Fun fact: I am often misunderstood.
 
 
 
@@ -25,3 +25,7 @@ Let's talk about New Creative ideas on [![Twitter][1.2]][1] or [![LinkedIn][2.2]
 
 [1]: https://twitter.com/shaktijec
 [2]: https://www.linkedin.com/in/shaktipro/
+
+<a href="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true" />
+</a>
