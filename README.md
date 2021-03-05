@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://img.shields.io/badge/https://simpleicons.org/icons/linux.svgOS-Linux/Windows-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badgeOS-Linux/Windows-informational?style=flat&logo=<>&logoColor=white&color=2bbc8a)
 <!--
 **shaktiv29/shaktiv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
