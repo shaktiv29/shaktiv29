@@ -7,6 +7,8 @@
 
 Here are some ideas to get you started:
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktiv29&color=red&&style=flat-square" alt="shaktiv29" /> </p>
+
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Javascript, Data-Science, Competitive Coding.
 - 👯 I’m looking to collaborate on Python, Reinforcement Learning.
