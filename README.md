@@ -1,14 +1,8 @@
+![](https://komarev.com/ghpvc/?username=shaktiv29&color=blue&&style=flat-square)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ### Hi there 👋
-<!--
-**shaktiv29/shaktiv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktiv29&color=red&&style=flat-square" alt="shaktiv29" /> </p>
-
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning Javascript, Data-Science, Competitive Coding.
 - 👯 I’m looking to collaborate on Python, Reinforcement Learning.
