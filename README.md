@@ -3,14 +3,14 @@
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ### Hi there 👋
-- 🔭 I’m currently working on Python.
-- 🌱 I’m currently learning Javascript, Data-Science, Competitive Coding.
-- 👯 I’m looking to collaborate on Python, Reinforcement Learning.
+- 🔭 I’m currently working on Javascript and ReactJS.
+- 🌱 I’m currently learning Javascript, Competitive Coding.
+- 👯 I’m looking to collaborate on Javascript, Flutter.
 - 🤔 I’m looking for help with Tensorflow.
-- 💬 Ask me about Python, Linux, Data Structures, Algorithms, Creative Ideas, Networking, Cyber Security.
+- 💬 Ask me about Python, Linux, Data Structures, Algorithms, Creative Ideas, Networking, Cyber Security, Web Developement.
 - 📫 How to reach me: shaktiv@jecjabalpur.ac.in
-- 😄 Pronouns: He
-- ⚡ Fun fact: I am often misunderstood.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I can help you to get better ideas.
 
 
 
