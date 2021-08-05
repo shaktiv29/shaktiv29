@@ -21,10 +21,7 @@ Let's talk about New Creative ideas on [![Twitter][1.2]][1] or [![LinkedIn][2.2]
 
 [1]: https://twitter.com/shaktijec
 [2]: https://www.linkedin.com/in/shaktipro/
-<a href="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true" />
-  <br/>
-</a>
-<br />
-<br />
 ![trophy](https://github-profile-trophy.vercel.app/?username=shaktiv29&theme=onedark)
+<a href="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true" />\
+</a>
