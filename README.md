@@ -25,5 +25,6 @@ Let's talk about New Creative ideas on [![Twitter][1.2]][1] or [![LinkedIn][2.2]
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaktiv29&show_icons=true&include_all_commits=true" />
   <br/>
 </a>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=shaktiv29&theme=onedark){: style="padding-top:10px"}
+<br />
+<br />
+![trophy](https://github-profile-trophy.vercel.app/?username=shaktiv29&theme=onedark)
