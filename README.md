@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaktiv29&theme=onedark)]
 ### Hi there 👋
 - 🔭 I’m currently working on Javascript and ReactJS.
 - 🌱 I’m currently learning Javascript, Competitive Coding.
